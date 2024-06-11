@@ -1,6 +1,6 @@
 # vocab-YOU-lary
 
-In this student assessment, you will be creating an application that allows users to CRUD vocabulary cards, authenticate with Google, and filter.
+In this student assessment, you will be creating an application that allows users to CRUD sports cards, authenticate with Google, and filter.
 
 ## Learning Objectives
 - Single Responsibility Principle (each component/function should have one job)
@@ -44,7 +44,7 @@ Create issue tickets from the items below to help you get started.
 - [ ] START CODING!
 
 # MVP Requirements
-[MVP Wireframe](https://www.figma.com/file/IW4jF3GnzCFLYbEXlgFNIZ/MVP)
+[MVP Wireframe](https://www.figma.com/design/K9b5MxHU4yH77wygWdqmu3/Sports-Individual-Assessment?node-id=0-1&t=dZUzD5RjHc93J0r6-1)
 - [ ] An ERD of your data
 - [ ] Use Firebase for DB and authentication
 - [ ] Technical Flow chart (timebox this)
@@ -56,34 +56,19 @@ Create issue tickets from the items below to help you get started.
 
 **The most basic requirement for this project is that a user can:**
 - [ ] Login and Logout of the application using Firebase Google Authentication
-- [ ] only see the vocabulary entries that they created
-- [ ] CREATE a vocabulary entry:
+- [ ] only see the sports entries that they created
+- [ ] CREATE a sports entry:
   - [ ] Title
   - [ ] Definition
-  - [ ] Language/Tech
+  - [ ] Sport Name
   - [ ] Time submitted - Not on form. Handle in your JS
   - [ ] user ID - Not on form. Pull from User object.
 - [ ] READ THIER entries
 - [ ] UPDATE THEIR entries
 - [ ] DELETE THEIR entries
-- [ ] Filter by language/tech
+- [ ] Filter by Sport Name
 - [ ] Style your application using your own creativity!
 - [ ] No errors - linters should be clean
-
-## Stretch 1
-[Stretch 1 Wireframe](https://www.figma.com/file/yZE38QzpoUWELA22gGZJve/Stretch-1)
+- [ ] [ Wireframe](https://www.figma.com/design/K9b5MxHU4yH77wygWdqmu3/Sports-Individual-Assessment?node-id=0-1&t=dZUzD5RjHc93J0r6-1)
 - [ ] Allow users to order entries alphabetically, newest, oldest
 
-## Stretch 2
-[Stretch 2 Wireframe](https://www.figma.com/file/UC3Gi8HFRkZY8OIMOAUgL4/Stretch-2)
-- [ ] Users can search vocabulary entries
-- [ ] Users can add Language/Tech to the database and refrerence it on their vocabulary entries
-- [ ] Users can only see the Languages/Tech categories that they created
-
-## Stretch 3
-[Stretch 3 Wireframe](https://www.figma.com/file/KgbkfaoRd5F8Q4qZ3G2Bg2/Stretch-3)
-- [ ] Users can mark an entry as public or private
-- [ ] Create a new navigation item called "Community" and on click of this item, users can see all the public entries
-- [ ] If an entry is public, anyone can READ it. If it is private, only the user who created it can see it.
-- [ ] If an entry is public, only the user who created it can CRUD on it
-- [ ] If an entry is public, any user can copy the entry to their own set of entries and then CRUD on the new/copied entry
