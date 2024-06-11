@@ -78,3 +78,8 @@ init();
 ## More Info and Resources on Webpack
 - Visit the [Webpack documentation](https://webpack.js.org/concepts/) if you want to explore more.
 - [Info on our Webpack Config](https://github.com/nss-nightclass-projects/Night-Class-Resources/blob/master/book-2-patterns-and-tools/chapters/webpack-configure.md)
+
+
+![website-view-sports-individual](https://github.com/Younique98/INDIVIDUAL-ASSESSMENT-vocab-YOU-lary/assets/18708698/d14d0665-4662-4fbe-960f-dbaedd93ff8e)
+![Page](https://github.com/Younique98/INDIVIDUAL-ASSESSMENT-vocab-YOU-lary/assets/18708698/3bbdb880-66dc-4348-b262-98151ca03458)
+
