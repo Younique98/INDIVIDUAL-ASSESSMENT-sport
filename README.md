@@ -79,7 +79,6 @@ init();
 - Visit the [Webpack documentation](https://webpack.js.org/concepts/) if you want to explore more.
 - [Info on our Webpack Config](https://github.com/nss-nightclass-projects/Night-Class-Resources/blob/master/book-2-patterns-and-tools/chapters/webpack-configure.md)
 
-![Mobile-View](https://github.com/Younique98/INDIVIDUAL-ASSESSMENT-vocab-YOU-lary/assets/18708698/a3658e93-767e-4afa-99aa-a4bc00fe629a)
 ![Desktop-View](https://github.com/Younique98/INDIVIDUAL-ASSESSMENT-vocab-YOU-lary/assets/18708698/d00695eb-76a0-4f45-bb1b-4c1b8e809796)
 
 
